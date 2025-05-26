@@ -3,6 +3,9 @@
 ## 📝 Brief Description
 This is a simple and colorful desktop Tic Tac Toe game built using Java AWT (Abstract Window Toolkit). The game supports two players who take turns placing their X or O on a 3x3 grid. It includes all basic game logic such as win checking, draw detection, and a "New Game" button to reset the board. The UI has been enhanced with background colors, player highlights, and status updates for a more engaging experience.
 
+Developed by Arnel Enrico Paolo D. Codera for ITCC 11.1 Section A, Lab Activity 4.
+Secret phrase: "Tic Tac Toe is fun!!!"
+
 ## 🎮 Features
 - ✅ 3x3 Grid created using AWT Buttons  
 - ✅ Two-player mode with alternating turns (X and O)  
