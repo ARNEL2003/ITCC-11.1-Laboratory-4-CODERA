@@ -24,7 +24,7 @@ This is a simple and colorful desktop Tic Tac Toe game built using Java AWT (Abs
 
 ### 💻 Option 2: Clone from GitHub
 ```bash
-git clone https://github.com/ARNEL2003/ITCC-11.1-Laboratory-4-CODERA
+git clone https://github.com/ARNEL2003/ITCC-11.1-Laboratory-4-CODERA.git
 cd classic-tictactoe-awt
 javac ClassicTicTacToe.java
 java ClassicTicTacToe
