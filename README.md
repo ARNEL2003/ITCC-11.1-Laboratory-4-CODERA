@@ -30,5 +30,5 @@ javac ClassicTicTacToe.java
 java ClassicTicTacToe
 
 
-![image](https://github.com/user-attachments/assets/d7db0efc-474f-42a6-b749-d7435202d439)
+
 
