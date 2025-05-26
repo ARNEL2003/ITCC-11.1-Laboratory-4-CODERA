@@ -28,3 +28,7 @@ git clone https://github.com/ARNEL2003/ITCC-11.1-Laboratory-4-CODERA.git
 cd classic-tictactoe-awt
 javac ClassicTicTacToe.java
 java ClassicTicTacToe
+
+
+![image](https://github.com/user-attachments/assets/d7db0efc-474f-42a6-b749-d7435202d439)
+
